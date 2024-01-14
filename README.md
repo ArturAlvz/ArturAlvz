@@ -1,49 +1,52 @@
-<a href="" title=" ">
-<img alt="" width="100%"src="https://capsule-render.vercel.app/api?type=waving&color=40:d558f6,80:0dd0f9&height=120&section=header&text=&fontSize=0&animation=fadeIn"/>
-</a>
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(Artur Alvz)...;{(Web__Developer)}&center=true&size=25&color=B46DFFFF&duration=3000&pause=2000">
-  </a>
-</h1>
-<h3 align="center">
-  Hi, I´m Artur Alvz, Web Developer
-</h3>
-<br>
-<div>
 
-## Oiii eu sou a Artur Gabriel Fernandes Alves, sou desenvolvedor web!
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/ArturAlvz/ArturAlvz/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+&nbsp;&nbsp;&nbsp;
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+<p align="center">I ❤️ solve great challenges using tech. <br><br> frontend development using HTML,CSS,JS , I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>web developer mid-level developer</strong> focused on web development.</p>&nbsp;
 
-</div>
-  
-  ##
- 
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ArturAlvz&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-ArturAlvz.vercel.app/api/top-langs/?username=ArturAlvz&show_icons=true&theme=radical&layout=compact" />
+ </div>
+
+ &nbsp;
+ &nbsp;
+
+
+
+## My Skills
+
+#### Main Stack:
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+#### Secondary Stack:
+
+![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+
+#### Workstation Tools:
+
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+
+&nbsp;
+&nbsp;
+
+## Contacts:
+
 <div> 
+<a href="https://www.instagram.com/artur.alvzz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href = "mailto:arturgfa.eu@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a
 
-  
-</div>
 
-<br>
-  <div align=center>
-    <a href="https://github.com/ArturAlvz/github-readme-stats">
-      <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturAlvz&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=a77eeb&text_color=7fdbca&icon_color=1dafb&bg_color=011627&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="lartweib"/>
-    </a><br>
-    <a href="##" title="Go to Source">
-      <img align="center" width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=ArturAlvz&theme=nightowl&border=1dafb&hide_border=true" alt="lartweib" />
-    </a><br>
-    <a href="https://github.com/ArturAlvz/github-readme-stats" title="Go to Source">
-      <img align="center" width=500 src="https://github-readme-stats.vercel.app/api?username=ArturAlvz&theme=nightowl&border=61dafb&hide_border=true" alt="lartweib"/>
-    </a> 
-  </div>
-  <a href="" title=" ">
-          <img alt="Capsule Render" width="100%"src="https://capsule-render.vercel.app/api?type=waving&fontColor=0dd0f9&color=40:0dd0f9,70:d558f6&height=120&section=footer&animation=fadeIn"/>
-      </a>
 
-<hr>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
