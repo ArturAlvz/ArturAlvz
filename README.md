@@ -1,4 +1,4 @@
-<p align="center">I ❤️ solve great challenges using tech. <br><br> frontend development using HTML,CSS,JS , I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>web developer mid-level developer</strong> focused on web development.</p>&nbsp;
+## Oiii eu sou a Artur Gabriel, Web Developer!
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ArturAlvz&theme=radical&mode=weekly" />
